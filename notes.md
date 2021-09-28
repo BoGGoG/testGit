@@ -11,5 +11,6 @@ Commands
     * `git diff hash1 hash2`
     * `git diff --cached`
 - banana
+    * split
 - hallo
 - apple
