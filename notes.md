@@ -10,7 +10,6 @@ Commands
 - `git diff`
     * `git diff hash1 hash2`
     * `git diff --cached`
-
-- asdf
+- banana
 - hallo
 - apple
