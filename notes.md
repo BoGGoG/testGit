@@ -7,3 +7,6 @@ Commands
 - `git checkout asdf`
     * asdf = hash (commit id)
     * asdf = brach
+- `git diff`
+    * `git diff hash1 hash2`
+    * `git diff --cached`
