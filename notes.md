@@ -13,3 +13,4 @@ Commands
 
 - asdf
 - hallo
+- apple
